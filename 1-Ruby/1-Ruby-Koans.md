@@ -1,6 +1,8 @@
 # Ruby, Rails, Ruby on Rails, what's the deal?
 
-Let's get something straight, _Ruby_ is a programming language; _Ruby on Rails_ (or just _Rails_) is a framework, written in Rails, to help you build web applications more easily.
+![crazy](http://media2.giphy.com/media/C1ODiCUL8VO9O/original.gif)
+
+Let's get something straight, _Ruby_ is a programming language; _Ruby on Rails_ (or just _Rails_) is a framework, written in ruby, to help you build web applications more easily.
 
 This implies a few things:
 
