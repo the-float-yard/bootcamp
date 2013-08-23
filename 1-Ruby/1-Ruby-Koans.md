@@ -75,7 +75,7 @@ Okay, let's learn some ruby.
 
 Okay. Without further ado. Let's do lesson 1!
 
-The lovely guys at Neo (the scottish contingent of which are a floor below you _right now_ have written some [ruby koans](http://rubykoans.com/) to teach you the basics of ruby. From their website:
+The lovely guys at Neo (the scottish contingent of which are a floor below you _right now_) have written some [ruby koans](http://rubykoans.com/) to teach you the basics of ruby. From their website:
 
 > The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.
 
@@ -86,7 +86,7 @@ __On Testing__: Testing is _a big deal_ in the ruby community. Hopefully, testin
 
 1. Go to [http://rubykoans.com](http://rubykoans.com) and follow their instructions for getting started.
 2. Work through the exercises. For the basic introductory stuff, you should work on your own computers (but feel free to ask each other for help, and me if you get really really stuck (try and battle through it on your own for a while first though)).
-3. When you get to a `\_project` lesson, I would like you to pair program. Come ask me what I mean by that when you've both got to your first one.
+3. When you get to a `_project` lesson, I would like you to pair program. Come ask me what I mean by that when you've both got to your first one.
 
 ### Notes:
 
