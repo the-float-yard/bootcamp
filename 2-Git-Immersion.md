@@ -2,7 +2,7 @@
 
 Git (and by extension GitHub) are the de facto version control system in use for web development today. In fact, we probably hired you in part because you shared some code you had written and shared on GitHub.
 
-Git helps us share our code, work together, and rescues us from mistakes.
+Git helps us share our code, work together, and rescues us from mistakes, which is pretty awesome if you ask me:
 
 ![Wow](http://www.reactiongifs.com/wp-content/uploads/2013/08/when-your-favorite-tv-show-comes-back-from-a-break.gif)
 
