@@ -55,5 +55,4 @@ These are roughly the things I hope you will learn:
 * What to look out for to be a productive, happy, software developer.
 * Some thoughts as to how we will work in a team successfully.
 
-[Lesson 1 →](https://github.com/the-float-yard/bootcamp/blob/master/1-Ruby-Koans.md)
 [Lesson 1 →](1-Ruby-Koans.md)

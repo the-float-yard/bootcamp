@@ -19,3 +19,6 @@ This is an easy lesson (to describe anyway)
 ## Notes
 
 Again if you have questions, please write them down so we can discuss them later.
+
+
+[← Lesson 1](1-Ruby-Koans.md)
