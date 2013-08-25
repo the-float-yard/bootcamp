@@ -42,19 +42,21 @@ It also imposes unreasonable demands on your coffee shop's robot customers as th
 
 **A better way: a protocol** If we think about it for a while. We might realise that it is somewhat unnecessary to enlist the entirety of the english language, just to order coffee. The following types of exchanges would probably cover 99% of the required conversation in that scenario:
 
-* Customer: I would like 1 cold-brew and I would like 2 lattes.
-* Barista: Okay _or_ Sorry we don't have cold-brew.
+> Customer: I would like 1 cold-brew and I would like 2 lattes.
+> Barista: Okay _or_ Sorry we don't have cold-brew.
 
-* Customer: Do you sell lattes?
-* Barista: Yes we sell lattes _or_ No we don't sell lattes.
 
-* Customer: Do you accept credit cards?
-* Barista: Yes we accept cards _or_ No we don't accept cards.
 
-* Barista: That will be £6.25.
-* Customer: Here is £10 cash _or_ Here is my credit card.
+> Customer: Do you sell lattes?
+> Barista: Yes we sell lattes _or_ No we don't sell lattes.
 
-* Barista: Here is your change _or_ here is your credit card.
+> Customer: Do you accept credit cards?
+> Barista: Yes we accept cards _or_ No we don't accept cards.
+
+> Barista: That will be £6.25.
+> Customer: Here is £10 cash _or_ Here is my credit card.
+
+> Barista: Here is your change _or_ here is your credit card.
 
 
 We could reduce these exchanges down to a few rules.
