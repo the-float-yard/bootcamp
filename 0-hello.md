@@ -32,6 +32,7 @@ If I am failing at any of these, or something else you think is important, pleas
 * That you focus on learning as much as possible from each exercise rather than just completing it as fast as possible - this is about learning, not finishing.
 * That you speak up when you have issues or are struggling.
 * To understand that sometimes this will be hard, and not to get too frustrated - I will _never_ judge you for struggling with something.
+* That you will try to solve things on your own, or with each other, before asking me for help - struggling through things is part of the learning process and I won't always be around/or able to answer your questions. Of course, if you _are_ stuck, or think I can explain something better than you understand, do ask.
 * To commit the time and effort that you have to this course, but no more. Even if you have a crappy day one day and don't get very far, I will not expect you to stay up late or work at the weekend to catch up. Learning to manage your time and energy is an important part of being a software developer. Of course if _you_ _want_ to do stuff in the evenings or the weekends that's great, just make sure it is because _you choose_ to not because you think you _should_.
 
 ## Rough Outline
@@ -53,3 +54,5 @@ These are roughly the things I hope you will learn:
 * How to develop, test, and deploy the Float app.
 * What to look out for to be a productive, happy, software developer.
 * Some thoughts as to how we will work in a team successfully.
+
+[Lesson 1 →](https://github.com/the-float-yard/bootcamp/blob/master/1-Ruby-Koans.md)
