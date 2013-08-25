@@ -26,13 +26,15 @@ You want to build a chain of coffeeshops, staffed by artisan robot baristas. You
 
 **The naive way**: You could teach your robots to hear, parse, and understand any english phrase. This would mean that they could understand:
 
-> A'ight mate, can I get three triple-shot lattes?
+> Do you sell cold brew?
 
+and
 
 > One cappucinno please.
 
+and even
 
-> Do you sell cold brew?
+> A'ight mate, can I get three triple-shot lattes?
 
 Hopefully you can already see the issue with this: English is kind of sucky as a communication language. It is ambiguous, difficult to parse and it's generally hard to build computers that understand it well (see: Siri).
 
