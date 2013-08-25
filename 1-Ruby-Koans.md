@@ -93,4 +93,4 @@ __On Testing__: Testing is _a big deal_ in the ruby community. Hopefully, testin
 * If you have questions/wonder how something works, write it down, google it, think about it, ask each other. Don't just blast through the lessons, the point is to learn, not finish quickly. I will very gladly discuss these things with you afterwards, so make sure you write down your thoughts and we can go through them over lunch or something.
 
 
-[← Intro](README.md) | [Lesson 2 →](2-Git-Immersion.md)
+[← Getting Started](0-getting-started.md) | [Lesson 2 →](2-Git-Immersion.md)
