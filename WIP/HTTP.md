@@ -75,13 +75,13 @@ We could reduce these exchanges down to a few rules.
 First we define a strict set of things that can appear in a message
 
 **Parts of a message:**
-* <n> integer number
-* <amount> an amount in £s
-* <coffee-type> valid type of coffee
-* <payment-type> valid payment type ("cash"/"credit card")
-* <barista-verb> actions baristas can take: ("accept"/"sell")
-* <barista-noun> either <coffee-type> or <payment-type>
-* <affirmation> either "yes" or "no"
+* \<n> integer number
+* \<amount> an amount in £s
+* \<coffee-type> valid type of coffee
+* \<payment-type> valid payment type ("cash"/"credit card")
+* \<barista-verb> actions baristas can take: ("accept"/"sell")
+* \<barista-noun> either <coffee-type> or <payment-type>
+* \<affirmation> either "yes" or "no"
 
 Then we define some modifiers to modify the above.
 
@@ -92,15 +92,15 @@ Then we define some modifiers to modify the above.
 Then we can define some customer phrases that use the parts and modifiers above.
 
 **Customer phrases:**
-* ASK\_FOR\_COFFEE: I would like <n> <coffee-type> [and ASK\_FOR\_COFFEE]\*
-* REQUEST: Do you <barista-verb> <barista-noun>?
-* OFFER: Here is my [<amount>] <payment-type>.
+* ASK\_FOR\_COFFEE: I would like \<n> <coffee-type> [and ASK\_FOR\_COFFEE]\*
+* REQUEST: Do you \<barista-verb> \<barista-noun>?
+* OFFER: Here is my [\<amount>] \<payment-type>.
 
 And do the same for the barista.
 
 **Barista phrases:**
-* RESPOND: <affirmation> we <barista-verb> <barista-noun>.
-* REQUEST\_CASH: That will be <amount>.
+* RESPOND: \<affirmation> we \<barista-verb> \<barista-noun>.
+* REQUEST\_CASH: That will be \<amount>.
 * RETURN\_PAYMENT: Here is your [change] [credit-card].
 
 We may also define valid communication sequences. I.e. a BARISTA::RESPOND may only follow a CUSTOMER::REQUEST.
