@@ -121,7 +121,7 @@ Read the introduction to the HTTP spec: [Chapter 1](http://pretty-rfc.herokuapp.
 
 ### HTTP Message
 
-Read: [Chapter 3: HTTP Message](http://pretty-rfc.herokuapp.com/RFC2616#httpmessage)q
+Read: [Chapter 3: HTTP Message](http://pretty-rfc.herokuapp.com/RFC2616#httpmessage)
 
 1. Explain the difference between the HEADER and the BODY?
 2. How does this relate to `<head>` and `<body>`?
