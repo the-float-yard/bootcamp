@@ -113,7 +113,13 @@ The protocol for HTTP is somewhat similar to our coffee barista protocol. But it
 
 The official spec for HTTP version 1.1 is RFC2616 (catchy title huh?) and can be found [here](http://pretty-rfc.herokuapp.com/RFC2616).
 
-## Reading: 
+## Exercise:
+
+I want you to read a little bit of the spec in this section. Mostly so that you know it exists, but also because it is actually quite useful and informative.
+
+It is, however, a little dry so feel free to also read wikipedia or something else to help you understand.
+
+I've set some questions mostly to help you think about things a little bit, and so we can chat about it.
 
 ### Introduction
 
@@ -121,7 +127,7 @@ Read the introduction to the HTTP spec: [Chapter 1](http://pretty-rfc.herokuapp.
 
 ### HTTP Message
 
-Read: [Chapter 3: HTTP Message](http://pretty-rfc.herokuapp.com/RFC2616#httpmessage)
+Read: [Chapter 4: HTTP Message](http://pretty-rfc.herokuapp.com/RFC2616#httpmessage)
 
 1. Explain the difference between the HEADER and the BODY?
 2. How does this relate to `<head>` and `<body>`?
