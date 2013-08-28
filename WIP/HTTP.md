@@ -115,9 +115,7 @@ The official spec for HTTP version 1.1 is RFC2616 (catchy title huh?) and can be
 
 ## Exercise:
 
-I want you to read a little bit of the spec in this section. Mostly so that you know it exists, but also because it is actually quite useful and informative.
-
-It is, however, a little dry so feel free to also read wikipedia or something else to help you understand.
+I want you to read a little bit of the spec in this section. Mostly so that you know it exists, but also because it is actually quite useful and informative. It is, however, a little dry so feel free to also read wikipedia or something else to help you understand.
 
 I've set some questions mostly to help you think about things a little bit, and so we can chat about it.
 
