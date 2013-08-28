@@ -109,7 +109,15 @@ What we have defined above is a basic protocol. Our simple set of rules, can com
 
 ### The HTTP Protocol
 
-The protocol for HTTP is somewhat similar to our coffee barista protocol. But it is somewhat more detailed as it is (actually complete) and has some more features. Instead of allowing customers and baristas to exchange money for coffee, it allows web servers and user-agents (browsers) to exchange HTML.
+HTTP doesn't work exactly like the coffee barista protocol, but there are some similarities in concept.
+
+HTTP is a request-response protocol. A client (typically, but not always a web-browser) requests a _resource_ from a server (like a web-server). It does so by sending a _request_ HTTP message to the URL of the resource. The server then sends back a _response_ HTTP message, typically with the contents of the resource in it's body, but it may refuse or redirect the client to a different URL instead.
+
+In the simplest case, the webserver acts like a remote file system. The client requests a file on the server's file system, and the server sends it back, over the internet. When we build web applications though, the files don't actually have to exist on disk, the web server can send back anything it likes in response to a given request on a given URL.
+
+The client may also request changes to the resource, or create new resources (this is where PUT and POST come in) or request to DELETE them.
+
+The request-response part of the protocol means that the server can only send data to the client in response to a request from the client (i.e. synchronously). The server can not arbitrarily send data to the client unless a request is held open (this is where other protocols must come in like Websockets if we want our server to communicate asynchronously (as some unknown time) with a client.
 
 The official spec for HTTP version 1.1 is RFC2616 (catchy title huh?) and can be found [here](http://pretty-rfc.herokuapp.com/RFC2616).
 
