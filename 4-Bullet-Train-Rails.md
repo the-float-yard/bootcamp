@@ -1,5 +1,7 @@
 # Bullet Train Rails
 
+![train](http://cdn.uproxx.com/wp-content/uploads/2012/08/choo-choo-bitch.gif)
+
 By now you have become comfortable with the basics of programming in ruby (variables, list, hashes and functions) and even some of the more wonderful features do the Koans, you can roll back alterations in your code that cause issues thanks to Git and you find the internet a little bit less magical now that you have read up on the HTTP.
 
 Now it's time for you to get your first taste of Ruby on Rails (commonly referred to as "Rails"). Rails gains a lot of it popularity for doing a lot of the tedious work involved in Web Development for you. The community is vibrant and many Gems (similar to packages in other programming languages) have been created to add functionality like user authentication that Rails doesn't include. This can lead to a lot of lego-like applications that non developers assemble without the knowledge ot the topics of the previous excercises. Understanding the ruby language that powers Rails and how data is transmitted will allow you to use Rails as a foundation to build almost anything.
