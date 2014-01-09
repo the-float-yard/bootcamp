@@ -1,6 +1,6 @@
 # Bullet Train Rails
 
-![train](http://cdn.uproxx.com/wp-content/uploads/2012/08/choo-choo-bitch.gif)
+![train](http://cdn.arwrath.com/2/27662.gif)
 
 By now you have become comfortable with the basics of programming in ruby (variables, list, hashes and functions) and even some of the more wonderful features do the Koans, you can roll back alterations in your code that cause issues thanks to Git and you find the internet a little bit less magical now that you have read up on the HTTP.
 
