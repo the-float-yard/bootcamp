@@ -2,17 +2,17 @@
 
 ![train](http://upload.wikimedia.org/wikipedia/commons/0/08/Walschaerts_motion.gif)
 
-By now you have become comfortable with the basics of programming in ruby (variables, lists, hashes and functions) and even some of the more wonderful features due to the Koans, you can roll back alterations in your code that cause issues thanks to Git and you find the internet a little bit less magical now that you have read up on HTTP.
+Now that you have completed the Blogger tutorial you have covered the basics of Rails. The next step is to focus in on the components that make rails work. These include models, controllers, views, routes databases and active record.
 
-Now it's time for you to get your first taste of Ruby on Rails (commonly referred to as "Rails"). Rails gains a lot of its popularity for doing a lot of the tedious work involved in Web Development for you. The community is vibrant and many Gems (similar to packages in other programming languages) have been created to add functionality like user authentication that Rails doesn't include by default. This can lead to a lot of lego-like applications that non developers assemble without the knowledge of the topics covered in the previous excercises. Understanding the ruby language that powers Rails and how data is transmitted will allow you to use Rails as a foundation to build almost anything.
+Richard Schneeman of University of Texas and Heroku fame has created a[10 week intro to Rails course](http://www.schneems.com/ut-rails/) designed to get you experimenting with the individual components of a typical app.
 
 ## Exercise
 
-Your task for this exercise is to complete the [Blogger tutorial on JumpStartLabs](http://tutorials.jumpstartlab.com/projects/blogger.html). This course was designed to give new developers a chance to cover the basics of a Rails application in a single day. By the end of it you will have a fully functioning blog that you can deploy to a service like Heroku for live use. [Donalds portfolio](http://donrails.com/) is a modified version of the finished app with a Bootstrap makeover to give you an idea of how the knowledge gained in this tutorial can be applied. 
+Work your way through the tutorials, watch the videos and complete all of the exercises.
 
 ### What to Keep in Mind
 
-* This is not about becoming a master of Rails, the goal is to become familiar with concepts like MVC and CRUD.
-* Google/StackOverflow is your friend. If you have any issues try inputting the error codes into Google or take a look at the Ruby/Rails docs. You'll never remember everything there is to know about Rails. Knowing how to find the neseccary information to solve a problem is a valuable skill.
-* The Float team are more that happy to help when you need to bounce ideas around.
+* As you work through these examples try to apply what you have learned to the blogger app to improve its functionality or simplify the code.
+* Think of a project you would like to work on, when you get to the fifth section attempt to build it.
+* The Float team are more than happy to help when you need to bounce ideas around.
 * Breaking things is just as fun as making things.
