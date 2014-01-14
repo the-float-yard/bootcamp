@@ -4,7 +4,7 @@
 
 Now that you have completed the Blogger tutorial you have covered the basics of Rails. The next step is to focus in on the components that make rails work. These include models, controllers, views, routes databases and active record.
 
-Richard Schneeman of University of Texas and Heroku fame has created a[10 week intro to Rails course](http://www.schneems.com/ut-rails/) designed to get you experimenting with the individual components of a typical app.
+Richard Schneeman of University of Texas and Heroku fame has created a [10 week intro to Rails course](http://www.schneems.com/ut-rails/) designed to get you experimenting with the individual components of a typical app.
 
 ## Exercise
 
