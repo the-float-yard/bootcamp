@@ -16,3 +16,5 @@ Your task for this exercise is to complete the [Blogger tutorial on JumpStartLab
 * Google/StackOverflow is your friend. If you have any issues try inputting the error codes into Google or take a look at the Ruby/Rails docs. You'll never remember everything there is to know about Rails. Knowing how to find the necessary information to solve a problem is a valuable skill.
 * The Float team are more than happy to help when you need to bounce ideas around.
 * Breaking things is just as fun as making things.
+
+[← Lesson 3](3-HTTP.md) | [Lesson 5 →](5-inner-workings-of-rails.md)

@@ -16,3 +16,5 @@ Work your way through the tutorials, watch the videos and complete all of the ex
 * Think of a project you would like to work on, when you get to the fifth section attempt to build it.
 * The Float team are more than happy to help when you need to bounce ideas around.
 * Breaking things is just as fun as making things.
+
+[← Lesson 4](4-Bullet-Train-Rails.md)

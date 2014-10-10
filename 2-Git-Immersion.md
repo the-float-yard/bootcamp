@@ -22,4 +22,4 @@ This is an easy lesson (to describe anyway)
 Again if you have questions, please write them down so we can discuss them later.
 
 
-[← Lesson 1](1-Ruby-Koans.md)
+[← Lesson 1](1-Ruby-Koans.md) | [Lesson 3 →](3-HTTP.md)
