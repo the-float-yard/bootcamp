@@ -17,4 +17,4 @@ Work your way through the tutorials, watch the videos and complete all of the ex
 * The Float team are more than happy to help when you need to bounce ideas around.
 * Breaking things is just as fun as making things.
 
-[← Lesson 4](4-Bullet-Train-Rails.md)
+[← Lesson 4](4-Bullet-Train-Rails.md) | [Helpful Resources →](6-helpful-resources.md)
